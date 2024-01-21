@@ -2,9 +2,10 @@
 This is the final project for the Introduction to Robotics course taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest.
 
 Team name: **fetitele_powerpuff**
+<br>
 Team members: [Andreea](https://github.com/AndriciucAndreeaCristina), [Carina](https://github.com/SaicuCarina), [Corina](https://github.com/corinagherasim)
 
-Out of the three tries on the final circuit, our line follower robot completed the circuit best in *19.65 seconds*.
+Out of the three tries on the final circuit, our line follower completed the circuit best in *19.65 seconds*.
 
 ### Youtube video showing our line follower: <a href= "https://www.youtube.com/watch?v=s3lH5o4y6hk"> Click here </a>
 
