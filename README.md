@@ -16,7 +16,7 @@ Out of the three tries on the final circuit, our line follower completed the cir
 * 1 x LiPo battery as a power source
 * 1 x L293D motor driver
 * 1 x QTR-8A reflectance sensor
-* 1 x Chassis
+* 1 x Chassis made by us
 * 1 x Ball caster
 * 2 x DC motors
 * 2 x Wheels
